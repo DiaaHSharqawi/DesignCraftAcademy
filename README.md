@@ -2,6 +2,10 @@
 
 This is a simple HTML and CSS landing page project called **DesignCraft Academy**. The project demonstrates a modern design and layout for an educational or service-oriented website.
 
+## Demo
+
+Check out the live demo of this landing page here: [DesignCraft Academy Demo](https://diaahsharqawi.github.io/DesignCraftAcademy/)
+
 ## Features
 
 - **Responsive Navigation Bar**: Includes links to Home, Courses, About Us, Pricing, and Contact pages.
@@ -44,7 +48,6 @@ DesignCraftAcademy/
 - Add JavaScript functionality for enhanced interactivity.
 - Expand the website with additional pages for Courses, About Us, and Pricing details.
 - Implement accessibility enhancements for better user experience.
-
 
 ## Contributing
 
