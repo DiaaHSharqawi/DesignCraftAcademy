@@ -1,10 +1,10 @@
-# DesignCraft Academy
+# DesignCraft Academy Landing page
 
 This is a simple HTML and CSS landing page project called **DesignCraft Academy**. The project demonstrates a modern design and layout for an educational or service-oriented website.
 
 ## Demo
 
-Check out the live demo of this landing page here: [DesignCraft Academy Demo](https://diaahsharqawi.github.io/DesignCraftAcademy/)
+Check out the live demo of this landing page here: [DesignCraft Academy landing page Demo](https://diaahsharqawi.github.io/DesignCraftAcademy-Landing-Page/)
 
 ## Features
 
