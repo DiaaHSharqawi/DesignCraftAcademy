@@ -4,7 +4,7 @@ This is a simple HTML and CSS landing page project called **DesignCraft Academy*
 
 ## Demo
 
-Check out the live demo of this landing page here: [DesignCraft Academy landing page Demo](https://diaahsharqawi.github.io/DesignCraftAcademy-Landing-Page/)
+Check out the live demo of this landing page here: [DesignCraft Academy landing page Demo](https://itg-software-front-end-internship.github.io/DesignCraftAcademy-Landing-Page/)
 
 ## Features
 
